@@ -14,3 +14,7 @@ Este é um projeto simples em Python para simular uma arquitetura de leilão onl
 
 * **`for` loop:** Usado no `worker.py` para processar múltiplos lances da fila.
 * **`if/else`:** Usado no `worker.py` para verificar se o `novo_lance` é maior que o `lance_atual`.
+
+**Aqui está o fluxo:**
+
+![Diagrama da Arquitetura](arquitetura.drawio.png)
